@@ -4,6 +4,7 @@ public class EjercicioNotasSwitch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//hola julio
 		Scanner sc = new Scanner(System.in);
 		System.out.print("que nota");
 		int nota = sc.nextInt();
