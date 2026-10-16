@@ -10,7 +10,7 @@ Escribe un programa en Java que solicite al usuario:
 	Cada amigo deberá aportar una cantidad exacta de euros 
 	El programa deberá mostrar:
 	Cuántos euros debe pagar cada amigo.
-	//hola julio 3
+	//hola julio 4
  * */
 
 public class Ejercicio1RegaloJulio {
