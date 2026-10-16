@@ -98,6 +98,7 @@ public class Ejercicio9For {
         }
         
         // Triángulo hecho con while
+        //tarea dos y cuando el bucle es infinito
         System.out.println("\nTriángulo con while:");
         int fila = 1;
         while (fila <= 3) {
